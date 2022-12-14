@@ -1,5 +1,6 @@
 # Online Peer to Peer Lending
-Trained a multiclass classifier model using XGBoost Gradient Classifier to achieve a public score of 0.99953 on Kaggle.
+- Trained a multiclass classifier model using XGBoost Gradient Classifier to achieve a public score of 0.99953(latesubmission) on Kaggle.
+- Results - https://www.kaggle.com/competitions/npci-online-peer-to-peer-lending/leaderboard
 <img width="714" alt="image" src="https://user-images.githubusercontent.com/87890518/205844941-6a66cb50-452b-4f98-a055-dfb60958743c.png">
 
 ## Overview and Problem Statement:
